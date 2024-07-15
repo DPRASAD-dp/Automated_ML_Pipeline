@@ -15,26 +15,26 @@ This project implements an automated machine learning pipeline capable of handli
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/automated-ml-project.git
+git clone https://github.com/DPRASAD-dp/Automated-ML-Pipeline.git
 cd automated-ml-project
-Copy
-2. Create a virtual environment (optional but recommended):
+
+3. Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
-Copy
-3. Install the required packages:
+  
+4. Install the required packages:
 pip install -r requirements.txt
-Copy
+
 ## Usage
 
 1. Run the Streamlit app:
 streamlit run app.py
-Copy
-2. Upload your CSV file, select the problem type, and specify the target column.
 
-3. Click "Run Analysis" to start the automated ML pipeline.
+3. Upload your CSV file, select the problem type, and specify the target column.
 
-4. View the results, including the EDA report, model comparisons, and the best performing model.
+4. Click "Run Analysis" to start the automated ML pipeline.
+
+5. View the results, including the EDA report, model comparisons, and the best performing model.
 
 ## Project Structure
 
