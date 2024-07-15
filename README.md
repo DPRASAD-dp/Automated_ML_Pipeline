@@ -15,7 +15,7 @@ This project implements an automated machine learning pipeline capable of handli
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/DPRASAD-dp/Automated-ML-Pipeline.git
+git clone [https://github.com/DPRASAD-dp/Automated-ML-Pipeline.git](https://github.com/DPRASAD-dp/Automated_ML_Pipeline.git)
 cd automated-ml-project
 
 3. Create a virtual environment (optional but recommended):
